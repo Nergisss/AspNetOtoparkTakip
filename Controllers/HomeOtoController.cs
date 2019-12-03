@@ -8,6 +8,9 @@ namespace OtoparkTakip.Controllers
 {
     public class HomeOtoController: Controller
     {
-
+         public IActionResult Index()
+        {
+            return View();
+        }
     }
 }
