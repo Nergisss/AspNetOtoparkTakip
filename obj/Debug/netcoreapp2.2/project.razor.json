@@ -2991,6 +2991,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\casper\\desktop\\OtoparkTakip\\Views\\OtoHome\\Index.cshtml",
+      "TargetPath": "Views\\OtoHome\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\casper\\desktop\\OtoparkTakip\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
